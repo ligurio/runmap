@@ -1,17 +1,24 @@
 #!/usr/bin/python
 # -*- coding: utf-8
 
+import argparse
 import json
+import sys
+from lxml import etree
 from pykml.factory import KML_ElementMaker as KML
 from pykml.factory import GX_ElementMaker as GX
-from lxml import etree
-import sys
 
 reload(sys)
 sys.setdefaultencoding('utf8')
 
 
 def main():
+
+    parser = argparse.ArgumentParser(description='Generate KML file.')
+    parser.add_argument('--debug', dest='debug', action='store_true',
+                       help='debug mode')
+
+    args = parser.parse_args()
 
     with open("data.json") as f:
         data = json.load(f)
@@ -30,22 +37,22 @@ def main():
     )
 
     for object in data:
-        print object.get("ObjectName", "")
-        print "\tАдрес:", object.get("Address", "")
-        print "\tТелефон:", object.get("HelpPhone", "")
-        print "\tСайт:", object.get("WebSite", "")
-        print "\tПлата:", object.get("Paid", "")
-        print "\tОсвещение:", object.get("Lighting", "")
-        print "\tТуалет:", object.get("HasToilet", "")
-        print "\tКафе:", object.get("HasEatery", "")
-        print "\tРаздевалки:", object.get("HasDressingRoom", "")
-        print "\tБанкомат:", object.get("HasCashMachine", "")
-        print "\tПокрытие:", object.get("SurfaceTypeSummer", "")
+        if args.debug:
+            print object.get("ObjectName", "")
+            print "\tАдрес:", object.get("Address", "")
+            print "\tТелефон:", object.get("HelpPhone", "")
+            print "\tСайт:", object.get("WebSite", "")
+            print "\tПлата:", object.get("Paid", "")
+            print "\tОсвещение:", object.get("Lighting", "")
+            print "\tТуалет:", object.get("HasToilet", "")
+            print "\tКафе:", object.get("HasEatery", "")
+            print "\tРаздевалки:", object.get("HasDressingRoom", "")
+            print "\tБанкомат:", object.get("HasCashMachine", "")
+            print "\tПокрытие:", object.get("SurfaceTypeSummer", "")
 
         map.Document.Folder.append(
              KML.Placemark(
                KML.name(object.get("ObjectName")),
-               #KML.description(make_desc(object).encode('utf8')),
                KML.description(make_desc(object)),
                KML.Point(
                  KML.coordinates("{lon},{lat},{alt}".format(
@@ -62,11 +69,13 @@ def main():
              )
            )
 
-        print make_desc(object)
+        if args.debug:
+            print make_desc(object)
 
     filename = "map.kml"
     with open(filename, 'w') as outfile:
         outfile.write(etree.tostring(map, pretty_print=True))
+    print "Write to %s." % filename
 
 
 def make_desc(object):
