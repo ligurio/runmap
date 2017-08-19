@@ -1,0 +1,1314 @@
+[
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "Спортивный комплекс образовательного учреждения",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "Северо-Восточный административный округ",
+    "District": "район Южное Медведково",
+    "Address": "Ясный пр-д, 21",
+    "Email": "",
+    "WebSite": "",
+    "HelpPhone": "(499) 477-13-13",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-21:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "Три дорожки по 200 м.",
+    "FoursquareTips": "",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "освещение газоразрядными лампами",
+    "SurfaceTypeSummer": "специальное покрытие",
+    "Seats": 0,
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.61811,
+        55.87665
+      ]
+    }
+  },
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "Спортивный комплекс образовательного учреждения",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "",
+    "District": "",
+    "Address": "Плющиха, 57",
+    "Email": "",
+    "WebSite": "http://old.1msmu.ru/mgmu/divisions/adm/gen/stadion/",
+    "HelpPhone": "(499) 248-41-34",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-21:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "Длина первой дорожки 360-380 м.",
+    "FoursquareTips": "https://ru.foursquare.com/v/%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD-%D0%B1%D1%83%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA/573ac2fd498eccd6f02d7e17",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "освещение газоразрядными лампами",
+    "SurfaceTypeSummer": "специальное покрытие",
+    "Seats": 0,
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.5762,
+		55.73675
+      ]
+    }
+  },
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "Стадион Дворца пионеров",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "",
+    "District": "",
+    "Address": "ул. Косыгина, 17 к2",
+    "Email": "",
+    "WebSite": "",
+    "HelpPhone": "",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "07:00-23:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "",
+    "FoursquareTips": "",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "освещение газоразрядными лампами",
+    "SurfaceTypeSummer": "специальное покрытие",
+    "Seats": 0,
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.5588,
+		55.70399
+      ]
+    }
+  },
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "Стадион 'Сокол' (закрыт на реконструкцию до августа 2018)",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "Центральный административный округ",
+    "District": "",
+    "Address": "Елизаветинский пер., д. 3 А",
+    "Email": "info@stadion-sokol.com",
+    "WebSite": "http://stadion-sokol.com/",
+    "HelpPhone": "(499) 941-13-46",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "07:00-23:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "да",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "Две дорожки.",
+    "FoursquareTips": "",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "освещение газоразрядными лампами",
+    "SurfaceTypeSummer": "асфальтовое покрытие",
+    "Seats": 0,
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.67418,
+		55.76196
+      ]
+    }
+  },
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "Легкоатлетический стадион СК 'Янтарь'",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "",
+    "District": "",
+    "Address": "ул. Маршала Катукова, д. 26",
+    "Email": "s94@mossport.ru",
+    "WebSite": "http://stadion-sokol.com/",
+    "HelpPhone": "(495) 942-88-11",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "07:00-23:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "",
+    "FoursquareTips": "",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "освещение газоразрядными лампами",
+    "SurfaceTypeSummer": "специальное покрытие",
+    "Seats": 0,
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.41374,
+		55.80134
+      ]
+    }
+  },
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "Спорткомплекс МГТУ им. Баумана",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "",
+    "District": "",
+    "Address": "Госпитальная набережная, дом 4/2",
+    "Email": "sportkompleks@bmstu.ru",
+    "WebSite": "https://sport.bmstu.net/",
+    "HelpPhone": "(499) 263-21-28",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "07:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "нет",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "Три беговые полиуретановые дорожки по 200 метров каждая. Две из них с наклоном, третья — разминочная — без. Рядом есть две 80-метровые отдельные дорожки для бега на скорость.",
+    "FoursquareTips": "",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "освещение лампами",
+    "SurfaceTypeSummer": "специальное покрытие",
+    "Seats": 0,
+    "Paid": "платно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.69714,
+		55.77208
+      ]
+    }
+  },
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "Спортивная школа олимпийского резерва 'Москвич'",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "",
+    "District": "",
+    "Address": "Люблинская ул., д. 15, стр. 7",
+    "Email": "stadium@sport-moskvich.ru",
+    "WebSite": "http://sport-moskvich.ru/sport-base/sport-palace/athletics/",
+    "HelpPhone": "(499) 178-65-38",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "07:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "нет",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "В манеже три дорожки длиной 200 м (круг) и 3 дорожки длиной 110 м (прямая).",
+    "FoursquareTips": "https://ru.foursquare.com/v/%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%B0%D1%82%D0%BB%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BC%D0%B0%D0%BD%D0%B5%D0%B6-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B8%D1%87/532c522b498ebb8dc11b758a",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "освещение лампами",
+    "SurfaceTypeSummer": "специальное покрытие",
+    "Seats": 0,
+    "Paid": "платно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.73156,
+		55.70704
+      ]
+    }
+  },
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "РГУФКСМиТ",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "",
+    "District": "",
+    "Address": "Сиреневый бульвар, д. 4",
+    "Email": "",
+    "WebSite": "",
+    "HelpPhone": "(499) 166-53-45",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "07:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "нет",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "По кругу манежа расположен 200-метровый круг, состоящий из 3-х дорожек.",
+    "FoursquareTips": "",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "освещение лампами",
+    "SurfaceTypeSummer": "специальное покрытие",
+    "Seats": 0,
+    "Paid": "платно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.76167,
+		55.80149
+      ]
+    }
+  },
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "Легкоатлетическо-футбольный комплекс ЦСКА",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "",
+    "District": "",
+    "Address": "Ленинградский проспект, д. 39, с. 1",
+    "Email": "",
+    "WebSite": "http://cska.ru/objects/3",
+    "HelpPhone": "(495) 613-18-02",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "07:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "нет",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "Предусмотрен стандартный круг с виражами длиной 200 метров и пятью дорожками. По периметру манежа проходит отдельная дорожка для спокойного бега длиной около 333 метров. Три таких круга составляют километр – очень удобно «набегать» объёмы. Рядом восемь прямых дорожек для тренировок по спринтерскому бегу, внутренняя разминочная зона.",
+    "FoursquareTips": "",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "освещение лампами",
+    "SurfaceTypeSummer": "специальное покрытие",
+    "Seats": 0,
+    "Paid": "платно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.53825,
+		55.79123
+      ]
+    }
+  },
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "Стадион МГУ им. Ломоносова",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "",
+    "District": "",
+    "Address": "ул. Ленинские Горы, 1с70",
+    "Email": "",
+    "WebSite": "http://sportclub.msu.ru/",
+    "HelpPhone": "(495) 939-10-00",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "07:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "Длина круга 400 м. Покрытие из резиновых листов.",
+    "FoursquareTips": "https://ru.foursquare.com/v/%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD-%D0%BC%D0%B3%D1%83/4be954756af1ef3be7be1b96",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "освещение лампами",
+    "SurfaceTypeSummer": "специальное покрытие",
+    "Seats": 0,
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.53641,
+		55.70101
+      ]
+    }
+  },
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "Манеж Крылатское",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "",
+    "District": "",
+    "Address": "улица Крылатская, д. 10",
+    "Email": "",
+    "WebSite": "",
+    "HelpPhone": "(499) 140-86-78",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "07:00-22:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "07:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "Внизу, внутри кольца самого велотрека — четырёхполосная беговая полиуретановая дорожка длиной 200 м. По её периметру — разминочная полоса длиной 228 м. За виражами нижней дорожки, с южной стороны велотрека — разминочная площадка с тренажёрами. Вторая дорожка расположена над кольцом велотрека и с первого взгляда не заметна. Её длина — 400 м, дорожка проходит по периметру самого здания.",
+    "FoursquareTips": "",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "освещение лампами",
+    "SurfaceTypeSummer": "специальное покрытие",
+    "Seats": 0,
+    "Paid": "платно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.43269,
+		55.76289
+      ]
+    }
+  },
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "Легкоатлетический центр им. братьев Знаменских",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "",
+    "District": "",
+    "Address": "улица Стромынка, д. 4",
+    "Email": "atletznam@ynmoscow.ru",
+    "WebSite": "http://atletznam.ru/",
+    "HelpPhone": "(499) 268-33-81",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "8:30-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "Cтандартный четырёхполосный беговой трек из полиуретана длиной 200 м. Рядом с манежем есть стадион с дорожкой длиной 400 м.",
+    "FoursquareTips": "https://ru.foursquare.com/v/%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD-%D0%B1%D1%80%D0%B0%D1%82%D1%8C%D0%B5%D0%B2-%D0%B7%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D1%85/4fc85f33e4b07661cea6f571",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "освещение лампами",
+    "SurfaceTypeSummer": "специальное покрытие",
+    "Seats": 0,
+    "Paid": "платно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.43269,
+		55.76289
+      ]
+    }
+  },
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "Легкоатлетический манеж МГУ им. Ломоносова (ЗАКРЫТ НА РЕКОНСТРУКЦИЮ)",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "",
+    "District": "",
+    "Address": "Ленинские горы, д. 1, стр. 36",
+    "Email": "",
+    "WebSite": "http://sportmsu.ru/sk_manej",
+    "HelpPhone": "(495) 939-22-59",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "8:30-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "Беговое полотно дорожки довольно изношено, при этом оно не разделено на отдельные дорожки.",
+    "FoursquareTips": "",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "освещение лампами",
+    "SurfaceTypeSummer": "специальное покрытие",
+    "Seats": 0,
+    "Paid": "платно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.53656,
+		55.6987
+      ]
+    }
+  },
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "Стадион парка «Останкино»",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "",
+    "District": "",
+    "Address": "1-я Останкинская ул., 3с1",
+    "Email": "",
+    "WebSite": "",
+    "HelpPhone": "(495) 544-34-00",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "8:30-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "Длина круга - 380 м.",
+    "FoursquareTips": "",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "освещение лампами",
+    "SurfaceTypeSummer": "специальное покрытие",
+    "Seats": 0,
+    "Paid": "платно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.60681,
+		55.82609
+      ]
+    }
+  },
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "Стадион «Москвич»",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "",
+    "District": "",
+    "Address": "Волгоградский пр., 46/15с1",
+    "Email": "",
+    "WebSite": "http://sport-moskvich.ru/sport-base/stadium/",
+    "HelpPhone": "",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "8:30-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "Восемь беговых дорожек по 400 м.",
+    "FoursquareTips": "",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "освещение лампами",
+    "SurfaceTypeSummer": "специальное покрытие",
+    "Seats": 0,
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.73509,
+		55.70812
+      ]
+    }
+  },
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "ГБПОУ МССУОР №3 Москомспорта",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "",
+    "District": "",
+    "Address": "Ткацкая улица, дом 27",
+    "Email": "",
+    "WebSite": "http://www.uor3.ru/",
+    "HelpPhone": "(499) 369-09-11 ",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "8:30-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "Четыре беговых дорожки.",
+    "FoursquareTips": "",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "нет освещения",
+    "SurfaceTypeSummer": "специальное покрытие",
+    "Seats": 0,
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.732337,
+		55.7868
+      ]
+    }
+  }
+]
