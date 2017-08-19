@@ -72,6 +72,45 @@ def main():
         if args.debug:
             print make_desc(object)
 
+    with open("addon.json") as f:
+        data = json.load(f)
+
+    for object in data:
+        if args.debug:
+            print object.get("ObjectName", "")
+            print "\tАдрес:", object.get("Address", "")
+            print "\tТелефон:", object.get("HelpPhone", "")
+            print "\tСайт:", object.get("WebSite", "")
+            print "\tПлата:", object.get("Paid", "")
+            print "\tОсвещение:", object.get("Lighting", "")
+            print "\tТуалет:", object.get("HasToilet", "")
+            print "\tКафе:", object.get("HasEatery", "")
+            print "\tРаздевалки:", object.get("HasDressingRoom", "")
+            print "\tБанкомат:", object.get("HasCashMachine", "")
+            print "\tПокрытие:", object.get("SurfaceTypeSummer", "")
+
+        map.Document.Folder.append(
+             KML.Placemark(
+               KML.name(object.get("ObjectName")),
+               KML.description(make_desc(object)),
+               KML.Point(
+                 KML.coordinates("{lon},{lat},{alt}".format(
+                         lon=object["geoData"]["coordinates"][0],
+                         lat=object["geoData"]["coordinates"][1],
+                         alt=50,
+                     )
+                 )
+               ),
+               # KML.ExtendedData(
+               # KML.Data(KML.value('someValueGadzilion'),name='Your value name here')
+               # ),
+               id=str(object["global_id"])
+             )
+           )
+
+        if args.debug:
+            print make_desc(object)
+
     filename = "map.kml"
     with open(filename, 'w') as outfile:
         outfile.write(etree.tostring(map, pretty_print=True))
