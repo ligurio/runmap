@@ -122,22 +122,27 @@ def make_desc(object):
     # Using the CDATA Element
     # https://developers.google.com/kml/documentation/kml_tut#descriptive_html
     desc = ""
-    if "SurfaceTypeSummer" in object.keys():
+    if "SurfaceTypeSummer" in object.keys() and \
+        object["SurfaceTypeSummer"].encode('utf8') is not "":
         desc = desc + u'<b>Покрытие дорожек:</b> '
         desc = desc + object.get("SurfaceTypeSummer", "").encode('utf8') + '.'
-    if "TracksInfo" in object.keys():
+    if "TracksInfo" in object.keys() and \
+        object["TracksInfo"].encode('utf8') is not "":
         desc = desc + " "
         desc = desc + object.get("TracksInfo", "").encode('utf8')
-    if "FoursquareTips" in object.keys():
+    if "Lighting" in object.keys() and \
+        object["Lighting"].encode('utf8') is not "":
+        light = object.get("Lighting", "").encode('utf8')
+        desc = desc + " " + upperfirst(light) + "."
+    if "Paid" in object.keys() and \
+        object["Paid"].encode('utf8') is not "":
+        desc = desc + " " + "Посещение "
+        desc = desc + object.get("Paid", "").encode('utf8') + "."
+    if "FoursquareTips" in object.keys() and \
+        object["FoursquareTips"].encode('utf8') is not "":
         url = object.get("FoursquareTips", "").encode('utf8')
         href = "<a href=\"%s\">Подсказки</a>" % url
         desc = desc + " " + href
-    if "Lighting" in object.keys():
-        light = object.get("Lighting", "").encode('utf8')
-        desc = desc + " " + upperfirst(light) + "."
-    if "Paid" in object.keys():
-        desc = desc + " " + "Посещение "
-        desc = desc + object.get("Paid", "").encode('utf8') + "."
 
     desc = desc + " " + make_props(object)
     desc = desc + " " + make_contacts(object)
@@ -148,10 +153,10 @@ def make_desc(object):
 def make_props(object):
 
     desc = ""
-    if "HasToilet" in object.keys() or \
-       "HasEatery" in object.keys() or \
-       "HasDressingRoom" in object.keys() or \
-       "HasCashMachine" in object.keys():
+    if object.get("HasToilet", "").encode('utf8') == "да" or \
+       object.get("HasDressingRoom", "").encode('utf8') == "да" or \
+       object.get("HasEatery", "").encode('utf8') == "да" or \
+       object.get("HasCashMachine", "").encode('utf8') == "да":
 
         desc = "Там есть "
         if "HasToilet" in object.keys() and \
@@ -159,19 +164,19 @@ def make_props(object):
             desc = desc + "туалет"
         if "HasEatery" in object.keys() and \
             object.get("HasEatery", "").encode('utf8') == "да":
-            if desc == 'Там есть':
+            if desc == 'Там есть ':
                 desc = desc + "кафе"
             else:
                 desc = desc + ", кафе"
         if "HasDressingRoom" in object.keys() and \
             object.get("HasDressingRoom", "").encode('utf8') == "да":
-            if desc == 'Там есть':
+            if desc == 'Там есть ':
                 desc = desc + "раздевалки"
             else:
                 desc = desc + ", раздевалки"
         if "HasCashMachine" in object.keys() and \
             object.get("HasCashMachine", "").encode('utf8') == "да":
-            if desc == 'Там есть':
+            if desc == 'Там есть ':
                 desc = desc + "банкомат"
             else:
                 desc = desc + ", банкомат"
