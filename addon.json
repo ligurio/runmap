@@ -1310,5 +1310,87 @@
 		55.7868
       ]
     }
+  },
+ {
+    "global_id": 407114570,
+    "DatasetSummer": "Беговые дорожки",
+    "RegisterID": 1002430,
+    "ObjectName": "Спортивный комплекс образовательного учреждения",
+    "NameSummer": "дорожка беговая-прогулочная",
+    "PhotoSummer": [
+      {
+        "Photo": ""
+      }
+    ],
+    "AdmArea": "",
+    "District": "",
+    "Address": "Ярославское шоссе. д.26с5",
+    "Email": "",
+    "WebSite": "http://mgsu.ru/resources/Sportkomplex/",
+    "HelpPhone": "(499) 188-03-04",
+    "WorkingHoursSummer": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "8:30-20:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "8:30-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "UsagePeriodSummer": "31.03-30.11",
+    "TracksInfo": "",
+    "FoursquareTips": "",
+    "DimensionsSummer": [
+      {
+        "Length": 2000,
+        "Width": 1.5,
+        "Square": 3000
+      }
+    ],
+    "Lighting": "нет освещения",
+    "SurfaceTypeSummer": "специальное покрытие",
+    "Seats": 0,
+    "Paid": "платно",
+    "DisabilityFriendly": "",
+    "ServicesSummer": [
+      "общая физическая подготовка"
+    ],
+    "geoData": {
+      "type": "Point",
+      "coordinates": [
+		37.6948587,
+		55.854993
+      ]
+    }
   }
 ]
