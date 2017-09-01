@@ -1,17 +1,12 @@
 # Беговые дорожки Москвы
 
-- [Самые популярные Легкоатлетические стадионы Foursquare в Москве](http://www.4sqstat.ru/moscow?category_id=4bf58dd8d48988d187941735)
-- [Портал открытых данных Правительства Москвы](https://data.mos.ru/opendata/7708040885-begovye-dorojki/row/410002379?pageNumber=4&versionNumber=5&releaseNumber=3)
-- [Пост в FB](https://www.facebook.com/photo.php?fbid=1686703698008161&set=a.819024918109381.1073741845.100000056413744&type=3&theater)
-- [Карта в Google Maps](https://www.google.com/maps/d/edit?hl=ru&mid=1RNGYFeP2Xo-46SHhG0UIx7CpQDY&ll=55.93796478685491%2C37.363943584374965&z=11)
-
 ## Что это?
 
 Одна из проблем стадионов и легкоатлетических манежей в нестандартной длине
 дорожки. Каждый, кто пробовал бегать отрезки на таких дорожках, понимает
 насколько это неудобно. Я сделал карту расположения столичных стадионов и
 манежей с указанием длины дорожки и другой полезной информацией для
-спортсменов. Карту можно смотреть в веб-браузере, а можно загрузить [файл](http://bronevichok.ru/runmap.kml)
+спортсменов. Карту можно [смотреть в веб-браузере](https://bronevichok.ru/runmap.html), а можно загрузить [файл](http://bronevichok.ru/runmap.kml)
 с координатами стадионов на смартфоне и [открыть в Maps.Me](https://support.maps.me/hc/ru/articles/207895029-%D0%9A%D0%B0%D0%BA-%D0%B8%D0%BC%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B7%D0%B0%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8-), тогда карта будет у вас всегда с собой.
 
 ## Как помочь проекту
@@ -24,3 +19,8 @@
 - [добавьте](https://data.mos.ru/opendata/7708040885-begovye-dorojki/row/410002379?pageNumber=4&versionNumber=5&releaseNumber=3#) отсутствующий стадион или манеж
 
 Посмотрите еще [карту лыжных и лыжероллерных трасс](https://mosskis.ru/).
+
+- [Самые популярные Легкоатлетические стадионы Foursquare в Москве](http://www.4sqstat.ru/moscow?category_id=4bf58dd8d48988d187941735)
+- [Портал открытых данных Правительства Москвы](https://data.mos.ru/opendata/7708040885-begovye-dorojki/row/410002379?pageNumber=4&versionNumber=5&releaseNumber=3)
+- [Обсуждение в Фейсбуке](https://www.facebook.com/hashtag/%D0%BD%D0%B5%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B8%D1%87%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D0%BD%D1%8B%D0%BC?source=feed_text&story_id=1686706214674576)
+- [Карта в Google Maps](https://www.google.com/maps/d/edit?hl=ru&mid=1RNGYFeP2Xo-46SHhG0UIx7CpQDY&ll=55.93796478685491%2C37.363943584374965&z=11)
