@@ -18,7 +18,7 @@
 посчитать среднюю длину круга.
 - [добавьте](https://data.mos.ru/opendata/7708040885-begovye-dorojki/row/410002379?pageNumber=4&versionNumber=5&releaseNumber=3#) отсутствующий стадион или манеж
 
-Посмотрите еще [карту лыжных и лыжероллерных трасс](https://mosskis.ru/).
+Посмотрите еще [карту лыжных и лыжероллерных трасс](https://mosskis.ru/). В перспективе хотелось бы сделать что-то подобное [сайту](http://buslanes.ru/) с рейтингом выделенных полос.
 
 - [Самые популярные Легкоатлетические стадионы Foursquare в Москве](http://www.4sqstat.ru/moscow?category_id=4bf58dd8d48988d187941735)
 - [Портал открытых данных Правительства Москвы](https://data.mos.ru/opendata/7708040885-begovye-dorojki/row/410002379?pageNumber=4&versionNumber=5&releaseNumber=3)
