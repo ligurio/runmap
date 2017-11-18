@@ -1,0 +1,48 @@
+<html>
+<head>
+<!--
+https://harrywood.co.uk/maps/examples/leaflet/kml.html
+https://leaflet-extras.github.io/leaflet-map/demo.html
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+http://hikebikemap.org/
+http://www.thunderforest.com/maps/landscape/
+http://www.thunderforest.com/maps/outdoors/
+-->
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <meta name="description" content="Где побегать в Москве?">
+   <meta name="author" content="Sergey Bronnikov">
+   <meta name="keywords" content="манежи, бег, спорт, стадион">
+   <meta property="og:site_name" content="Карта стадионов и легкоатлетических манежей в Москве" />
+   <meta property="og:title" content="Где побегать в Москве?" />
+   <meta property="og:type" content="website" />
+   <meta property="og:image" content="https://www.openstreetmap.org/assets/osm_logo_256-835a859acf0d378e1d14e88b15e7b4b95211ccd41a2c061b1629cfbbb8deb697.png" />
+   <meta property="og:image:secure_url" content="https://www.openstreetmap.org/assets/osm_logo_256-835a859acf0d378e1d14e88b15e7b4b95211ccd41a2c061b1629cfbbb8deb697.png" />
+   <meta property="og:url" content="https://bronevichok.ru/" />
+   <meta property="og:description" content="Где побегать в Москве?" />
+   <title>Где побегать в Москве?</title>
+   <link rel="stylesheet" href="leaflet.css" />
+   <!--[if lte IE 8]><link rel="stylesheet" href="leaflet/leaflet.ie.css" /><![endif]-->
+   <script src="leaflet.js"></script>
+   <!-- Bring in the leaflet KML plugin -->
+   <script src="KML.js"></script>  
+   <script language="javascript">
+      function init() {
+         var map = new L.Map('map');                       
+		 L.tileLayer('http://{s}.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://openstreetmap.org">OpenStreetMap</a> contributors',
+            maxZoom: 18
+         }).addTo(map);
+         map.attributionControl.setPrefix(''); // Don't show the 'Powered by Leaflet' text.
+
+         var kmlLayer = new L.KML("runmap.kml", {async: true});
+         kmlLayer.on("loaded", function(e) { 
+            map.fitBounds(e.target.getBounds());
+         });
+         map.addLayer(kmlLayer);
+      }
+   </script>
+</head>
+<body onLoad="javascript:init();">
+   <div style="position:absolute; top:0; left:0%; width:100%; height:100%" id="map"></div>
+</body>            
+</html>
